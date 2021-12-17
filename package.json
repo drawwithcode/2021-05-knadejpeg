@@ -1,0 +1,21 @@
+{
+  "name": "es05_repository",
+  "version": "1.0.0",
+  "description": "trying to go live",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "es05",
+    "p5.js",
+    "node"
+  ],
+  "author": "mercedes",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^4.4.0"
+  }
+}
