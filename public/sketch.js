@@ -64,13 +64,6 @@ function mouseDragged () {
 clientSocket.emit('mouse', message);
 }
 
-
-
-
-// sketch
-
-
-
 // color changes when there is a new click
 function mouseClicked() {
   fill(random(fillColor));
